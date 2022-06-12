@@ -14,7 +14,7 @@ Responsible
 * HTML
 * CSS
 * JS
-##  Code Example(since i haven't even started to learn JS,this is all i shock you with at the moment):
+##  Code Example(since i haven't even started to learn JS,this is all i can shock you with at the moment):
 console.log('Hello, World!');
 ## Education:
 * High School
@@ -22,4 +22,3 @@ console.log('Hello, World!');
 * RSShool(now)
 ## English Level:
 C1
-
