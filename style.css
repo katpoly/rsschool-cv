@@ -1,0 +1,49 @@
+.buttons {
+    margin: 0;
+    padding: 4px;
+    text-align: center;
+}
+.menu {
+    display: inline-block;
+    background-color: #dda0dd;
+    border: 2px solid #cd5c5c;
+    padding: 4px;
+}
+.contacts {
+    font-size: large;
+}
+.body {
+    background-color: #d8bfd8;
+}
+.profile-photo {
+   height: 200px;
+   border: solid 3px #dda0dd;
+   margin-top: 20px;
+}
+h1 {
+    text-align: center;
+    color: #cd5c5c;
+    text-decoration: underline #cd5c5c;
+}
+.github-icon {
+    height: 30px;
+    width: 30px;
+}
+.RS-logo {
+    height: 30px;
+}
+.footer {
+    background-color: #dda0dd;
+}
+.button {
+    text-align: center;
+}
+.button button {
+    background-color: #dda0dd;
+}
+footer {
+    text-align: center;
+}
+code {
+    font-size: large;
+}
